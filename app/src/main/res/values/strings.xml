@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gas Leakage Sensor</string>
+    <string name="loading">loading...</string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+</resources>
